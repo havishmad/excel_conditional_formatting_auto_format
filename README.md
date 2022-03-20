@@ -1,0 +1,1 @@
+# excel_conditional_formatting_auto_format
